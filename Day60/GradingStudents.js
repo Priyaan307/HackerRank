@@ -1,4 +1,3 @@
-
 function gradingStudents(grades) {
     const ROUNDING_THRESHOLD = 3;
     for (let i = 0; i < grades.length; i++) {
