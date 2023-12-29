@@ -4,4 +4,4 @@ function hurdleRace(k, height) {
 
     return dosesNeeded;
 }
-console.log(hurdleRace(4, [1, 6, 3, 5, 2])); // Output: 2
+console.log(hurdleRace(4, [1, 6, 3, 5, 2])); 
